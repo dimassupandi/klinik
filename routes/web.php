@@ -22,3 +22,4 @@ Route::get('testing', function () {
 Route::get('login', function () {
     return view('login');
 });
+
